@@ -3,5 +3,4 @@
 - Network connectivity from inside the livecd (if you manually configure it)
 
 ## What doesn't work
-- DCHP
 - Installing 
